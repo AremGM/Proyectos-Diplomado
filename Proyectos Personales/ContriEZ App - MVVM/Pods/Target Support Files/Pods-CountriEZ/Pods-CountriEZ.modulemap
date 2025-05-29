@@ -1,0 +1,6 @@
+framework module Pods_CountriEZ {
+  umbrella header "Pods-CountriEZ-umbrella.h"
+
+  export *
+  module * { export * }
+}
